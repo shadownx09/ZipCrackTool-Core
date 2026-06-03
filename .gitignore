@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# C++
+*.o
+*.obj
+*.exe
+*.out
+*.so
+*.a
+
+# Go
+*.exe
+*.out
+*.test
+*.prof
+
+# Rust
+/target/
+**/*.rs.bk
+
+# সাধারণ সুরক্ষা (সব ল্যাঙ্গুয়েজের জন্য)
+.env
+config.json
+secrets.txt
+.DS_Store
